@@ -3,4 +3,10 @@
     <string name="enter_first_number">enter first number</string>
     <string name="enter_second_number">enter second number</string>
     <string name="calculate">calculate</string>
+    <string name="value">Valor</string>
+    <string name="info_first_number">First Number:</string>
+    <string name="fNumber">Value1</string>
+    <string name="info_second_number">Second Number:</string>
+    <string name="sNumber">Value2</string>
+    <string name="result">Result</string>
 </resources>
