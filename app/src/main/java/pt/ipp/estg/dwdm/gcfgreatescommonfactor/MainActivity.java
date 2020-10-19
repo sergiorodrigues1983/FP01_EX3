@@ -13,8 +13,6 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
-
-   // ArrayList numbers = new ArrayList();
     public static final String fNumber = "FIRST_NUMBER";
     public static final String sNumber = "SECOND_NUMBER";
     public static final String gCFactor = "RESULT";
@@ -45,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
         int remainder;
         int higher, smaller;
 
-        if(n1 > n2) {
+        if (n1 > n2) {
             higher = n1;
             smaller = n2;
         } else {
